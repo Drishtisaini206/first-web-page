@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+        <h1>Lab Assignment 3</h1>
+        <table>
+            <thead>
+            <tr>
+                <th>Name</th>
+                <th>Maths</th>
+                <th>Science</th>
+                <th>English</th>
+                </thead>
+            
+            </tr>
+            <tbody>
+            <tr>
+                <td>John Doe</td>
+                <td>85</td>
+                <td>90</td>
+                <td>88</td>
+                </tr>
+            <tr>
+                <td>Jane Smith</td>
+                <td>92</td>
+                <td>89</td>
+                <td>95</td>
+               
+                </tr>
+                <tr>
+                <td>Sam Brown</td> 
+                <td>78</td>
+                <td>98</td>   
+                <td>60</td>                
+
+                </tr>
+
+                </tbody>
+        </table>>
+    </html>
